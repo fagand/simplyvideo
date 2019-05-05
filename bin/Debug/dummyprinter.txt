@@ -1,0 +1,8403 @@
+This is the Stockheader for the file.
+-------------------
+The date is: 27/02/2018 13:05:07
+All stock is: 
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 27/02/2018 13:14:05
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: tew
+
+Category: 	afae
+DVD Quantity: 	66
+VHS Quantity: 	6234
+Certificate: 	te
+Distributor: 	wet
+Release date: 	12
+Cost Bracket: 	125
+Description: 	asday
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: tew
+
+Category: 	afae
+DVD Quantity: 	66
+VHS Quantity: 	6234
+Certificate: 	te
+Distributor: 	wet
+Release date: 	12
+Cost Bracket: 	125
+Description: 	asday
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 27/02/2018 13:15:41
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: tew
+
+Category: 	afae
+DVD Quantity: 	66
+VHS Quantity: 	6234
+Certificate: 	te
+Distributor: 	wet
+Release date: 	12
+Cost Bracket: 	125
+Description: 	asday
+
+Stock ID: 4	Title: 2362
+
+Category: 	vdas
+DVD Quantity: 	2
+VHS Quantity: 	25
+Certificate: 	ae
+Distributor: 	1fdaf
+Release date: 	15
+Cost Bracket: 	77
+Description: 	aweuyaw3a7
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: tew
+
+Category: 	afae
+DVD Quantity: 	66
+VHS Quantity: 	6234
+Certificate: 	te
+Distributor: 	wet
+Release date: 	12
+Cost Bracket: 	125
+Description: 	asday
+
+Stock ID: 4	Title: 2362
+
+Category: 	vdas
+DVD Quantity: 	2
+VHS Quantity: 	25
+Certificate: 	ae
+Distributor: 	1fdaf
+Release date: 	15
+Cost Bracket: 	77
+Description: 	aweuyaw3a7
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 27/02/2018 13:17:49
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: tew
+
+Category: 	afae
+DVD Quantity: 	66
+VHS Quantity: 	6234
+Certificate: 	te
+Distributor: 	wet
+Release date: 	12
+Cost Bracket: 	125
+Description: 	asday
+
+Stock ID: 4	Title: afefeaf
+
+Category: 	wafawef
+DVD Quantity: 	2
+VHS Quantity: 	3
+Certificate: 	12
+Distributor: 	safewf
+Release date: 	1
+Cost Bracket: 	23
+Description: 	afeafea
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: tew
+
+Category: 	afae
+DVD Quantity: 	66
+VHS Quantity: 	6234
+Certificate: 	te
+Distributor: 	wet
+Release date: 	12
+Cost Bracket: 	125
+Description: 	asday
+
+Stock ID: 4	Title: afefeaf
+
+Category: 	wafawef
+DVD Quantity: 	2
+VHS Quantity: 	3
+Certificate: 	12
+Distributor: 	safewf
+Release date: 	1
+Cost Bracket: 	23
+Description: 	afeafea
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 27/02/2018 13:18:05
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: tew
+
+Category: 	afae
+DVD Quantity: 	66
+VHS Quantity: 	6234
+Certificate: 	te
+Distributor: 	wet
+Release date: 	12
+Cost Bracket: 	125
+Description: 	asday
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: tew
+
+Category: 	afae
+DVD Quantity: 	66
+VHS Quantity: 	6234
+Certificate: 	te
+Distributor: 	wet
+Release date: 	12
+Cost Bracket: 	125
+Description: 	asday
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 27/02/2018 14:17:32
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: tew
+
+Category: 	afae
+DVD Quantity: 	66
+VHS Quantity: 	6234
+Certificate: 	te
+Distributor: 	wet
+Release date: 	12
+Cost Bracket: 	125
+Description: 	asday
+
+Stock ID: 4	Title: awefaef
+
+Category: 	aef
+DVD Quantity: 	3
+VHS Quantity: 	5
+Certificate: 	eaf
+Distributor: 	awef
+Release date: 	2
+Cost Bracket: 	23
+Description: 	aefwaf
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: tew
+
+Category: 	afae
+DVD Quantity: 	66
+VHS Quantity: 	6234
+Certificate: 	te
+Distributor: 	wet
+Release date: 	12
+Cost Bracket: 	125
+Description: 	asday
+
+Stock ID: 4	Title: awefaef
+
+Category: 	aef
+DVD Quantity: 	3
+VHS Quantity: 	5
+Certificate: 	eaf
+Distributor: 	awef
+Release date: 	2
+Cost Bracket: 	23
+Description: 	aefwaf
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 27/02/2018 14:25:03
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: tew
+
+Category: 	afae
+DVD Quantity: 	66
+VHS Quantity: 	6234
+Certificate: 	te
+Distributor: 	wet
+Release date: 	12
+Cost Bracket: 	125
+Description: 	asday
+
+Stock ID: 4	Title: faefawe
+
+Category: 	32
+DVD Quantity: 	253
+VHS Quantity: 	263
+Certificate: 	ewa
+Distributor: 	faweefa
+Release date: 	12
+Cost Bracket: 	33
+Description: 	wat3wa
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: tew
+
+Category: 	afae
+DVD Quantity: 	66
+VHS Quantity: 	6234
+Certificate: 	te
+Distributor: 	wet
+Release date: 	12
+Cost Bracket: 	125
+Description: 	asday
+
+Stock ID: 4	Title: faefawe
+
+Category: 	32
+DVD Quantity: 	253
+VHS Quantity: 	263
+Certificate: 	ewa
+Distributor: 	faweefa
+Release date: 	12
+Cost Bracket: 	33
+Description: 	wat3wa
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 27/02/2018 14:36:04
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: afeaf
+
+Category: 	dafe
+DVD Quantity: 	52
+VHS Quantity: 	53
+Certificate: 	wafe
+Distributor: 	faefa
+Release date: 	12
+Cost Bracket: 	25
+Description: 	awefawefawef
+
+Stock ID: 4	Title: 7rea723
+
+Category: 	aser
+DVD Quantity: 	326
+VHS Quantity: 	7
+Certificate: 	as
+Distributor: 	ewat
+Release date: 	23
+Cost Bracket: 	326
+Description: 	areuerueru
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: afeaf
+
+Category: 	dafe
+DVD Quantity: 	52
+VHS Quantity: 	53
+Certificate: 	wafe
+Distributor: 	faefa
+Release date: 	12
+Cost Bracket: 	25
+Description: 	awefawefawef
+
+Stock ID: 4	Title: 7rea723
+
+Category: 	aser
+DVD Quantity: 	326
+VHS Quantity: 	7
+Certificate: 	as
+Distributor: 	ewat
+Release date: 	23
+Cost Bracket: 	326
+Description: 	areuerueru
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 27/02/2018 14:36:35
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: afeaf
+
+Category: 	dafe
+DVD Quantity: 	52
+VHS Quantity: 	53
+Certificate: 	wafe
+Distributor: 	faefa
+Release date: 	12
+Cost Bracket: 	25
+Description: 	awefawefawef
+
+Stock ID: 4	Title: 7rea723
+
+Category: 	aser
+DVD Quantity: 	326
+VHS Quantity: 	7
+Certificate: 	as
+Distributor: 	ewat
+Release date: 	23
+Cost Bracket: 	326
+Description: 	areuerueru
+
+Stock ID: 5	Title: dasf
+
+Category: 	aefw
+DVD Quantity: 	235
+VHS Quantity: 	23
+Certificate: 	ae
+Distributor: 	eafea
+Release date: 	23
+Cost Bracket: 	23
+Description: 	aweyaweyw
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: afeaf
+
+Category: 	dafe
+DVD Quantity: 	52
+VHS Quantity: 	53
+Certificate: 	wafe
+Distributor: 	faefa
+Release date: 	12
+Cost Bracket: 	25
+Description: 	awefawefawef
+
+Stock ID: 4	Title: 7rea723
+
+Category: 	aser
+DVD Quantity: 	326
+VHS Quantity: 	7
+Certificate: 	as
+Distributor: 	ewat
+Release date: 	23
+Cost Bracket: 	326
+Description: 	areuerueru
+
+Stock ID: 5	Title: dasf
+
+Category: 	aefw
+DVD Quantity: 	235
+VHS Quantity: 	23
+Certificate: 	ae
+Distributor: 	eafea
+Release date: 	23
+Cost Bracket: 	23
+Description: 	aweyaweyw
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 27/02/2018 14:41:12
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: afeaf
+
+Category: 	dafe
+DVD Quantity: 	52
+VHS Quantity: 	53
+Certificate: 	wafe
+Distributor: 	faefa
+Release date: 	12
+Cost Bracket: 	25
+Description: 	awefawefawef
+
+Stock ID: 4	Title: 7rea723
+
+Category: 	aser
+DVD Quantity: 	326
+VHS Quantity: 	7
+Certificate: 	as
+Distributor: 	ewat
+Release date: 	23
+Cost Bracket: 	326
+Description: 	areuerueru
+
+Stock ID: 5	Title: Spiderman
+
+Category: 	Action
+DVD Quantity: 	235
+VHS Quantity: 	253
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2005
+Cost Bracket: 	4
+Description: 	daheui;haw;re
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: afeaf
+
+Category: 	dafe
+DVD Quantity: 	52
+VHS Quantity: 	53
+Certificate: 	wafe
+Distributor: 	faefa
+Release date: 	12
+Cost Bracket: 	25
+Description: 	awefawefawef
+
+Stock ID: 4	Title: 7rea723
+
+Category: 	aser
+DVD Quantity: 	326
+VHS Quantity: 	7
+Certificate: 	as
+Distributor: 	ewat
+Release date: 	23
+Cost Bracket: 	326
+Description: 	areuerueru
+
+Stock ID: 5	Title: Spiderman
+
+Category: 	Action
+DVD Quantity: 	235
+VHS Quantity: 	253
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2005
+Cost Bracket: 	4
+Description: 	daheui;haw;re
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 05/03/2018 11:29:05
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: afeaf
+
+Category: 	dafe
+DVD Quantity: 	52
+VHS Quantity: 	53
+Certificate: 	wafe
+Distributor: 	faefa
+Release date: 	12
+Cost Bracket: 	25
+Description: 	awefawefawef
+
+Stock ID: 4	Title: 7rea723
+
+Category: 	aser
+DVD Quantity: 	326
+VHS Quantity: 	7
+Certificate: 	as
+Distributor: 	ewat
+Release date: 	23
+Cost Bracket: 	326
+Description: 	areuerueru
+
+Stock ID: 5	Title: Spiderman
+
+Category: 	Action
+DVD Quantity: 	235
+VHS Quantity: 	253
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2005
+Cost Bracket: 	4
+Description: 	daheui;haw;re
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: afeaf
+
+Category: 	dafe
+DVD Quantity: 	52
+VHS Quantity: 	53
+Certificate: 	wafe
+Distributor: 	faefa
+Release date: 	12
+Cost Bracket: 	25
+Description: 	awefawefawef
+
+Stock ID: 4	Title: 7rea723
+
+Category: 	aser
+DVD Quantity: 	326
+VHS Quantity: 	7
+Certificate: 	as
+Distributor: 	ewat
+Release date: 	23
+Cost Bracket: 	326
+Description: 	areuerueru
+
+Stock ID: 5	Title: Spiderman
+
+Category: 	Action
+DVD Quantity: 	235
+VHS Quantity: 	253
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2005
+Cost Bracket: 	4
+Description: 	daheui;haw;re
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 05/03/2018 11:42:49
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: afeaf
+
+Category: 	dafe
+DVD Quantity: 	52
+VHS Quantity: 	53
+Certificate: 	wafe
+Distributor: 	faefa
+Release date: 	12
+Cost Bracket: 	25
+Description: 	awefawefawef
+
+Stock ID: 4	Title: 7rea723
+
+Category: 	aser
+DVD Quantity: 	326
+VHS Quantity: 	7
+Certificate: 	as
+Distributor: 	ewat
+Release date: 	23
+Cost Bracket: 	326
+Description: 	areuerueru
+
+Stock ID: 5	Title: Spiderman
+
+Category: 	Action
+DVD Quantity: 	235
+VHS Quantity: 	253
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2005
+Cost Bracket: 	4
+Description: 	daheui;haw;re
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: afeaf
+
+Category: 	dafe
+DVD Quantity: 	52
+VHS Quantity: 	53
+Certificate: 	wafe
+Distributor: 	faefa
+Release date: 	12
+Cost Bracket: 	25
+Description: 	awefawefawef
+
+Stock ID: 4	Title: 7rea723
+
+Category: 	aser
+DVD Quantity: 	326
+VHS Quantity: 	7
+Certificate: 	as
+Distributor: 	ewat
+Release date: 	23
+Cost Bracket: 	326
+Description: 	areuerueru
+
+Stock ID: 5	Title: Spiderman
+
+Category: 	Action
+DVD Quantity: 	235
+VHS Quantity: 	253
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2005
+Cost Bracket: 	4
+Description: 	daheui;haw;re
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 05/03/2018 11:47:50
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: afeaf
+
+Category: 	dafe
+DVD Quantity: 	52
+VHS Quantity: 	53
+Certificate: 	wafe
+Distributor: 	faefa
+Release date: 	12
+Cost Bracket: 	25
+Description: 	awefawefawef
+
+Stock ID: 4	Title: 7rea723
+
+Category: 	aser
+DVD Quantity: 	326
+VHS Quantity: 	7
+Certificate: 	as
+Distributor: 	ewat
+Release date: 	23
+Cost Bracket: 	326
+Description: 	areuerueru
+
+Stock ID: 5	Title: Spiderman
+
+Category: 	Action
+DVD Quantity: 	235
+VHS Quantity: 	253
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2005
+Cost Bracket: 	4
+Description: 	daheui;haw;re
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: afeaf
+
+Category: 	dafe
+DVD Quantity: 	52
+VHS Quantity: 	53
+Certificate: 	wafe
+Distributor: 	faefa
+Release date: 	12
+Cost Bracket: 	25
+Description: 	awefawefawef
+
+Stock ID: 4	Title: 7rea723
+
+Category: 	aser
+DVD Quantity: 	326
+VHS Quantity: 	7
+Certificate: 	as
+Distributor: 	ewat
+Release date: 	23
+Cost Bracket: 	326
+Description: 	areuerueru
+
+Stock ID: 5	Title: Spiderman
+
+Category: 	Action
+DVD Quantity: 	235
+VHS Quantity: 	253
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2005
+Cost Bracket: 	4
+Description: 	daheui;haw;re
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 05/03/2018 11:57:51
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 05/03/2018 11:58:54
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: feawfaw
+
+Category: 	asdaf
+DVD Quantity: 	1
+VHS Quantity: 	4
+Certificate: 	weafwe
+Distributor: 	waefwe
+Release date: 	135
+Cost Bracket: 	12
+Description: 	1235awef
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: feawfaw
+
+Category: 	asdaf
+DVD Quantity: 	1
+VHS Quantity: 	4
+Certificate: 	weafwe
+Distributor: 	waefwe
+Release date: 	135
+Cost Bracket: 	12
+Description: 	1235awef
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 05/03/2018 12:53:57
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: feawfaw
+
+Category: 	asdaf
+DVD Quantity: 	1
+VHS Quantity: 	4
+Certificate: 	weafwe
+Distributor: 	waefwe
+Release date: 	135
+Cost Bracket: 	12
+Description: 	1235awef
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: feawfaw
+
+Category: 	asdaf
+DVD Quantity: 	1
+VHS Quantity: 	4
+Certificate: 	weafwe
+Distributor: 	waefwe
+Release date: 	135
+Cost Bracket: 	12
+Description: 	1235awef
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 27/03/2018 11:56:53
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: feawfaw
+
+Category: 	asdaf
+DVD Quantity: 	1
+VHS Quantity: 	4
+Certificate: 	weafwe
+Distributor: 	waefwe
+Release date: 	135
+Cost Bracket: 	12
+Description: 	1235awef
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: feawfaw
+
+Category: 	asdaf
+DVD Quantity: 	1
+VHS Quantity: 	4
+Certificate: 	weafwe
+Distributor: 	waefwe
+Release date: 	135
+Cost Bracket: 	12
+Description: 	1235awef
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 27/03/2018 13:06:51
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: feawfaw
+
+Category: 	asdaf
+DVD Quantity: 	1
+VHS Quantity: 	4
+Certificate: 	weafwe
+Distributor: 	waefwe
+Release date: 	135
+Cost Bracket: 	12
+Description: 	1235awef
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: feawfaw
+
+Category: 	asdaf
+DVD Quantity: 	1
+VHS Quantity: 	4
+Certificate: 	weafwe
+Distributor: 	waefwe
+Release date: 	135
+Cost Bracket: 	12
+Description: 	1235awef
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 27/03/2018 13:16:17
+All stock is:
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 3	Title: feawfaw
+
+Category: 	asdaf
+DVD Quantity: 	1
+VHS Quantity: 	4
+Certificate: 	weafwe
+Distributor: 	waefwe
+Release date: 	135
+Cost Bracket: 	12
+Description: 	1235awef
+
+
+Book stock is: 
+
+Stock ID: 2	Title: FIFA
+
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	4
+Description: 	A film about a man who is a bat
+
+Stock ID: 3	Title: feawfaw
+
+Category: 	asdaf
+DVD Quantity: 	1
+VHS Quantity: 	4
+Certificate: 	weafwe
+Distributor: 	waefwe
+Release date: 	135
+Cost Bracket: 	12
+Description: 	1235awef
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/11/2018 6:49:12 PM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/11/2018 6:52:00 PM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/11/2018 6:52:50 PM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/11/2018 6:57:05 PM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/11/2018 7:02:44 PM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:00:56 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:01:31 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:02:25 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:06:14 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:06:42 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:09:00 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:09:23 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:10:32 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:16:42 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:18:56 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:19:47 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:25:04 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 11:59:07 AM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 12:07:32 PM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 12:08:07 PM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 12:08:36 PM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 12:09:27 PM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/12/2018 12:09:37 PM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 09:33:47
+All stock is:
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 4	Title: FIFA
+Stock ID: 2	Title: Spiderman
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 09:51:49
+All stock is:
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 4	Title: FIFA
+Stock ID: 2	Title: Spiderman
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 10:02:47
+All stock is:
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 4	Title: FIFA
+Stock ID: 2	Title: Spiderman
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 11:15:16
+All stock is:
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 11:48:35
+All stock is:
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 11:49:50
+All stock is:
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 11:53:44
+All stock is:
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 11:54:06
+All stock is:
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 11:54:51
+All stock is:
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 11:55:34
+All stock is:
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 11:56:33
+All stock is:
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 12:04:24
+All stock is:
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 13:29:51
+All stock is:
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 13:32:26
+All stock is:
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 13:50:15
+All stock is:
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 5	Title: film 5
+Category: 	Action
+DVD Quantity: 	9
+VHS Quantity: 	8
+Certificate: 	PG
+Distributor: 	WB
+Release date: 	12/04/2018
+Cost Bracket: 	9
+Description: 	afe
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 14:07:45
+All stock is:
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 4	Title: FIFA
+Stock ID: 5	Title: film 5
+Stock ID: 2	Title: Spiderman
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 5	Title: film 5
+Stock ID: 2	Title: Spiderman
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 14:29:43
+All stock is:
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 4	Title: FIFA
+Stock ID: 5	Title: film 5
+Stock ID: 2	Title: Spiderman
+Stock ID: 6	Title: Iron man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+
+Journal stock is: 
+
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 5	Title: film 5
+Stock ID: 2	Title: Spiderman
+Stock ID: 6	Title: Iron man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 14:31:51
+All stock is:
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA
+Stock ID: 5	Title: Iron Man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/04/2018 15:10:58
+All stock is:
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA
+Stock ID: 5	Title: Iron Man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/23/2018 5:04:38 PM
+All stock is:
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA
+Stock ID: 5	Title: Iron Man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 4/23/2018 8:34:41 PM
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 09:51:00
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 09:54:38
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 09:56:11
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 10:03:03
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 10:09:47
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 10:10:18
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 10:11:46
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 10:37:07
+All stock is:
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	20
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	20
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 11:08:14
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	2
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	20
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	20
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	2
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 11:17:54
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 11:49:34
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	2
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	20
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	20
+Description: 	Football game
+
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	12
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	2
+Description: 	A film about a man who is a bat
+
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	7
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man
+Category: 	PG
+DVD Quantity: 	6
+VHS Quantity: 	6
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/01/2015
+Cost Bracket: 	6
+Description: 	6
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 19:34:56
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 24/04/2018 19:37:10
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 30/04/2018 10:53:00
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 30/04/2018 11:54:47
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 30/04/2018 11:55:29
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 30/04/2018 13:10:01
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 01/05/2018 09:13:15
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+2: Spiderman ** Now Discounted by 50% on rented out to: Member ID: 1 David Fagan
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+2: Spiderman ** Now Discounted by 50% on rented out to: Member ID: 1 David Fagan
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 5/1/2018 10:39:22 AM
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Book stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Journal stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 5/18/2018 3:07:01 PM
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 5/18/2018 3:13:25 PM
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 5/18/2018 3:38:10 PM
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/05/2018 20:41:45
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/05/2018 20:42:55
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/05/2018 20:54:00
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 23/05/2018 21:10:21
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 09:16:32
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 09:37:55
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 09:42:42
+All stock is:
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+Stock ID: 5	Title: Iron Man
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA ** Now Discounted by 50%
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman ** Now Discounted by 50%
+Stock ID: 2	Title: Spiderman ** Now Discounted by 50%
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Fairley
+Member ID: 9 Davi fagan
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 09:56:17
+All stock is:
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 4	Title: FIFA
+Stock ID: 2	Title: Spiderman
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA
+
+Film stock is: 
+
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 10:46:49
+All stock is:
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 4	Title: FIFA
+Stock ID: 2	Title: Spiderman
+Stock ID: 5	Title: Iron Man
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 3	Title: Antman
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 10:47:41
+All stock is:
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman
+Stock ID: 3	Title: Antman
+Stock ID: 4	Title: FIFA
+Stock ID: 5	Title: Iron Man
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman
+Stock ID: 2	Title: Spiderman
+Stock ID: 3	Title: Antman
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 10:56:05
+All stock is:
+Stock ID: 1	Title: Batman
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 11:03:15
+All stock is:
+Stock ID: 1	Title: Batman
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 11:03:34
+All stock is:
+Stock ID: 1	Title: Batman
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 11:11:30
+All stock is:
+Stock ID: 1	Title: Batman
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 11:21:04
+All stock is:
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 12:01:41
+All stock is:
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 29/05/2018 12:46:33
+All stock is:
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 5/29/2018 3:10:33 PM
+All stock is:
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 5/30/2018 9:06:56 AM
+All stock is:
+Stock ID: 1	Title: Batman12
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	15
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a batmwan
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Category: 	Kids
+DVD Quantity: 	10
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/05/2018
+Cost Bracket: 	3
+Description: 	Iron man
+
+Stock ID: 6	Title: Call of duty
+Platform: 	Ps4
+Game Quantity: 	15
+Certificate: 	15
+Distributor: 	Infinity Wards
+Release date: 	01/01/2015
+Cost Bracket: 	40
+Description: 	agab
+
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 6	Title: Call of duty
+Platform: 	Ps4
+Game Quantity: 	15
+Certificate: 	15
+Distributor: 	Infinity Wards
+Release date: 	01/01/2015
+Cost Bracket: 	40
+Description: 	agab
+
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman12
+Category: 	Action
+DVD Quantity: 	10
+VHS Quantity: 	2
+Certificate: 	15
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a batmwan
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Category: 	Kids
+DVD Quantity: 	10
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/05/2018
+Cost Bracket: 	3
+Description: 	Iron man
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 31/05/2018 09:04:33
+All stock is:
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 31/05/2018 09:13:03
+All stock is:
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 31/05/2018 11:07:45
+All stock is:
+Stock ID: 1	Title: Batman12
+Category: 	Action
+DVD Quantity: 	1066
+VHS Quantity: 	223
+Certificate: 	15
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a batmwan
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Category: 	Kids
+DVD Quantity: 	10
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/05/2018
+Cost Bracket: 	3
+Description: 	Iron man
+
+Stock ID: 6	Title: Call of duty
+Platform: 	Ps4
+Game Quantity: 	15
+Certificate: 	15
+Distributor: 	Infinity Wards
+Release date: 	01/01/2015
+Cost Bracket: 	40
+Description: 	agab
+
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	2
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 6	Title: Call of duty
+Platform: 	Ps4
+Game Quantity: 	15
+Certificate: 	15
+Distributor: 	Infinity Wards
+Release date: 	01/01/2015
+Cost Bracket: 	40
+Description: 	agab
+
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman12
+Category: 	Action
+DVD Quantity: 	1066
+VHS Quantity: 	223
+Certificate: 	15
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a batmwan
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Category: 	Kids
+DVD Quantity: 	10
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/05/2018
+Cost Bracket: 	3
+Description: 	Iron man
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 31/05/2018 11:11:36
+All stock is:
+Stock ID: 1	Title: Batman12
+Category: 	Action
+DVD Quantity: 	1066
+VHS Quantity: 	223
+Certificate: 	15
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a batmwan
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	225125
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Category: 	Kids
+DVD Quantity: 	10
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/05/2018
+Cost Bracket: 	3
+Description: 	Iron man
+
+Stock ID: 6	Title: Call of duty
+Platform: 	Ps4
+Game Quantity: 	15
+Certificate: 	15
+Distributor: 	Infinity Wards
+Release date: 	01/01/2015
+Cost Bracket: 	40
+Description: 	agab
+
+
+Game stock is: 
+
+Stock ID: 4	Title: FIFA
+Platform: 	PS4
+Game Quantity: 	225125
+Certificate: 	PG
+Distributor: 	EA Games
+Release date: 	2017
+Cost Bracket: 	40
+Description: 	Football game
+
+Stock ID: 6	Title: Call of duty
+Platform: 	Ps4
+Game Quantity: 	15
+Certificate: 	15
+Distributor: 	Infinity Wards
+Release date: 	01/01/2015
+Cost Bracket: 	40
+Description: 	agab
+
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman12
+Category: 	Action
+DVD Quantity: 	1066
+VHS Quantity: 	223
+Certificate: 	15
+Distributor: 	Warner Bros
+Release date: 	1990
+Cost Bracket: 	5
+Description: 	A film about a man who is a batmwan
+
+Stock ID: 2	Title: Spiderman
+Category: 	Action
+DVD Quantity: 	20
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2000
+Cost Bracket: 	15
+Description: 	A film about a man who acts like a spider
+
+Stock ID: 3	Title: Antman
+Category: 	Kids
+DVD Quantity: 	100
+VHS Quantity: 	0
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	2010
+Cost Bracket: 	10
+Description: 	A film about a man who acts like an ant
+
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Category: 	Kids
+DVD Quantity: 	10
+VHS Quantity: 	1
+Certificate: 	PG
+Distributor: 	Marvel
+Release date: 	01/05/2018
+Cost Bracket: 	3
+Description: 	Iron man
+
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 6/2/2018 10:50:43 AM
+All stock is:
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 02/06/2018 12:55:44
+All stock is:
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+
+
+This is the Stockheader for the file.
+-------------------
+This file was amended on : 07/06/2018 16:01:09
+All stock is:
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+Stock ID: 6	Title: Call of duty
+
+Game stock is: 
+
+4: FIFA rented out to: Member ID: 6 Jeremey Clarkson
+Stock ID: 6	Title: Call of duty
+
+Film stock is: 
+
+Stock ID: 1	Title: Batman12
+2: Spiderman rented out to: Member ID: 1 David Fagan
+3: Antman rented out to: Member ID: 2 John Fagan
+Stock ID: 5	Title: Iron Man ** Now Discounted by 50%
+
+Members are: Member ID: 1 David Fagan
+Member ID: 2 John Fagan
+Member ID: 3 Bart Simpson
+Member ID: 4 Bruce Wayne
+Member ID: 5 Peter Griffin
+Member ID: 6 Jeremey Clarkson
+Member ID: 7 Tony Soprano
+Member ID: 8 David Beckham
+

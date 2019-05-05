@@ -1,0 +1,41 @@
+﻿<Window x:Class="GradedUnitWPF.AddStock"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GradedUnitWPF"
+        mc:Ignorable="d"
+        Title="SVHC | Add Film" Height="379" Width="346.491" WindowStartupLocation="CenterScreen" Closed="Window_Closed">
+    <Grid x:Name="myGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="85*"/>
+            <ColumnDefinition Width="84*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="105,10,0,0" TextWrapping="Wrap" Text="Simply Video Hire Club" VerticalAlignment="Top" FontWeight="Bold" Grid.ColumnSpan="2" Height="16" Width="131"/>
+        <RadioButton x:Name="radioButtonFilm" Content="Input Film" HorizontalAlignment="Left" Margin="135,31,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1,-3.75" Width="85" IsChecked="True" GroupName="Buttons" Grid.ColumnSpan="2"/>
+        <RadioButton x:Name="radioButtonGame" Content="Input Game" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="135,52,0,0" GroupName="Buttons" Grid.ColumnSpan="2" Checked="radioButtonGame_Checked" Unchecked="radioButtonGame_Unchecked"/>
+        <TextBox x:Name="textStockID" HorizontalAlignment="Left" Height="23" Margin="10,75,0,0" TextWrapping="Wrap" Text="Stock ID" VerticalAlignment="Top" Width="120" GotFocus="textBox_GotFocus" LostFocus="textStockID_LostFocus" IsEnabled="False"/>
+        <TextBox x:Name="textBoxTitle" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="Film Title" VerticalAlignment="Top" Width="120" Margin="38,75,0,0" Grid.Column="1" GotFocus="textBox_GotFocus" LostFocus="textBoxTitle_LostFocus" ToolTip="Film Title"/>
+        <TextBox x:Name="textBoxCertificate" HorizontalAlignment="Left" Height="23" Margin="10,103,0,0" TextWrapping="Wrap" Text="Certificate" VerticalAlignment="Top" Width="120" GotFocus="textBox_GotFocus" LostFocus="textBoxCertificate_LostFocus" ToolTip="Certificate"/>
+        <TextBox x:Name="textBoxDistributor" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="Distributor" VerticalAlignment="Top" Width="120" Margin="38,103,0,0" Grid.Column="1" GotFocus="textBox_GotFocus" LostFocus="textBoxDistributor_LostFocus" ToolTip="Distributor"/>
+        <TextBox x:Name="textBoxDateOfRelease" HorizontalAlignment="Left" Height="23" Margin="10,131,0,0" TextWrapping="Wrap" Text="Date of Release" VerticalAlignment="Top" Width="120" GotFocus="textBox_GotFocus" LostFocus="textBoxDateOfRelease_LostFocus" ToolTip="Date of Release" Opacity="0" IsEnabled="False"/>
+        <DatePicker x:Name="releaseDatePicker" HorizontalAlignment="Left" Margin="10,130,0,0" VerticalAlignment="Top" Width="120" ToolTip="Date of Release"/>
+        <TextBox x:Name="textBoxCost" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="Cost Bracket" VerticalAlignment="Top" Width="120" Margin="38,131,0,0" Grid.Column="1" GotFocus="textBox_GotFocus" LostFocus="textBoxCost_LostFocus" ToolTip="Cost Bracket"/>
+        <TextBox x:Name="textBoxPlatCat" HorizontalAlignment="Left" Height="23" Margin="10,159,0,0" TextWrapping="Wrap" Text="Category" VerticalAlignment="Top" Width="120" GotFocus="textBox_GotFocus" LostFocus="textBoxPlatCat_LostFocus" ToolTip="Category"/>
+        <TextBox x:Name="textBoxQuantity1" HorizontalAlignment="Left" Height="23" Margin="38,159,0,0" TextWrapping="Wrap" Text="DVD Quantity" VerticalAlignment="Top" Width="120" Grid.Column="1" GotFocus="textBox_GotFocus" LostFocus="textBoxQuantity1_LostFocus" ToolTip="DVD Quantity"/>
+        <TextBox x:Name="textBoxQuantity2" HorizontalAlignment="Left" Height="23" Margin="38,187,0,0" TextWrapping="Wrap" Text="VHS Quantity" VerticalAlignment="Top" Width="120" Grid.Column="1" GotFocus="textBox_GotFocus" LostFocus="textBoxQuantity2_LostFocus" ToolTip="VHS Quantity"/>
+        <TextBox x:Name="textBoxDescr" HorizontalAlignment="Left" Height="65" Margin="10,215,0,0" TextWrapping="Wrap" Text="Description" VerticalAlignment="Top" Width="318" Grid.ColumnSpan="2" GotFocus="textBox_GotFocus" LostFocus="textBoxDescr_LostFocus" ToolTip="Description"/>
+        <Button x:Name="buttonSubmit" Content="Submit" HorizontalAlignment="Left" Margin="85,285,0,0" VerticalAlignment="Top" Width="75" Click="buttonSubmit_Click"/>
+        <Button x:Name="buttonCancel" Content="Main Window" Grid.Column="1" HorizontalAlignment="Left" Margin="10,285,0,0" VerticalAlignment="Top" Width="80" Click="buttonCancel_Click"/>
+        <Button x:Name="buttonClear" Content="Clear Contents" HorizontalAlignment="Left" Margin="127,313,0,0" VerticalAlignment="Top" Width="87" Grid.ColumnSpan="2" IsEnabled="False" Click="buttonClear_Click"/>
+        <TextBlock x:Name="labelTitle" Text="Title" Grid.Column="1" HorizontalAlignment="Right" Margin="0,80,18.5,0" VerticalAlignment="Top" FontSize="8" Opacity="0"/>
+        <TextBlock x:Name="labelDistro" Text="Distributor" HorizontalAlignment="Right" Margin="0,108,18.5,0" VerticalAlignment="Top" FontSize="8" Grid.Column="1" Opacity="0"/>
+        <TextBlock x:Name="labelCost" Text="Cost Bracket" Grid.Column="1" HorizontalAlignment="Right" Margin="0,135,17.5,0" VerticalAlignment="Top" FontSize="8" TextWrapping="Wrap" TextAlignment="Right" Opacity="0"/>
+        <TextBlock x:Name="labelDVD" Text="DVD Quantity" HorizontalAlignment="Right" Margin="0,164,17.5,0" VerticalAlignment="Top" FontSize="8" TextWrapping="Wrap" Grid.Column="1" TextAlignment="Right" Opacity="0"/>
+        <TextBlock x:Name="labelVHS" Text="VHS Quantity" Margin="0,192,17.5,0" VerticalAlignment="Top" FontSize="8" HorizontalAlignment="Right" TextWrapping="Wrap" Grid.Column="1" TextAlignment="Right" Opacity="0"/>
+        <TextBlock x:Name="labelCertif" Text="Certificate" HorizontalAlignment="Left" Margin="92,108,0,0" VerticalAlignment="Top" FontSize="8" Opacity="0"/>
+        <TextBlock x:Name="labelDate" Text="Date of Release" HorizontalAlignment="Left" Margin="132,138,0,0" VerticalAlignment="Top" FontSize="8" TextWrapping="Wrap" Grid.ColumnSpan="2" Width="58" Opacity="0"/>
+        <TextBlock x:Name="labelCateg" Text="Category" HorizontalAlignment="Left" Margin="96,164,0,0" VerticalAlignment="Top" FontSize="8" Opacity="0"/>
+        <TextBlock x:Name="labelDescri" Text="Description" HorizontalAlignment="Left" Margin="14,201,0,0" VerticalAlignment="Top" FontSize="8" Opacity="0"/>
+    </Grid>
+</Window>

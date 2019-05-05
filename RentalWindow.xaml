@@ -1,0 +1,23 @@
+﻿<Window x:Class="GradedUnitWPF.RentalWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GradedUnitWPF"
+        mc:Ignorable="d"
+        Title="SVHC | Rental Window" Height="400" Width="662.5" WindowStartupLocation="CenterScreen" Closed="Window_Closed">
+    <Grid Margin="0,0,0,0">
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" Margin="0,8,0,0" TextWrapping="Wrap" Text="Member" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Center" Margin="0,64,0,0" TextWrapping="Wrap" Text="All Stock" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboBoxMember" HorizontalAlignment="Center" Margin="0,29,0,0" VerticalAlignment="Top" Width="326" Height="22"/>
+        <ComboBox x:Name="comboBoxAllStock" HorizontalAlignment="Center" Margin="0,85,0,0" VerticalAlignment="Top" Width="326" Height="22" BorderThickness="4"/>
+        <Rectangle Fill="#FFD4D4D4" HorizontalAlignment="Center" Height="157" Margin="0,156,0,0" Stroke="Black" VerticalAlignment="Top" Width="486"/>
+        <Button x:Name="btnCancel" Content="Return to Main Window" HorizontalAlignment="Center" Margin="0,337,0,0" VerticalAlignment="Top" Click="btnCancel_Click"/>
+        <Button x:Name="btnRentOut" Content="Rent Out" HorizontalAlignment="Center" Margin="0,121,0,0" VerticalAlignment="Top" Width="74" Click="btnRentOut_Click" Height="20"/>
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Return Stock" VerticalAlignment="Top" Margin="0,212,0,0"/>
+        <ComboBox x:Name="comboBoxReturn" HorizontalAlignment="Center" Margin="0,233,0,0" VerticalAlignment="Top" Width="470"/>
+        <Button x:Name="btnReturn" Content="Return" HorizontalAlignment="Center" Margin="0,271,0,0" VerticalAlignment="Top" Width="75" Click="btnReturn_Click"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Center" Margin="0,163,0,0" TextWrapping="Wrap" Text="Return Stock" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,184,0,0" TextWrapping="Wrap" Text="Stock will only be available to return if has been rented out" VerticalAlignment="Top" FontSize="10"/>
+    </Grid>
+</Window>
